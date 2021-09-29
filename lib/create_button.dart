@@ -115,7 +115,7 @@ class SignInButton extends StatelessWidget {
               child: Row(
                 mainAxisSize: MainAxisSize.min,
                 mainAxisAlignment: imagePosition == ImagePosition.left
-                    ? MainAxisAlignment.start
+                    ? MainAxisAlignment.center
                     : MainAxisAlignment.spaceBetween,
                 children: [
                   Padding(
