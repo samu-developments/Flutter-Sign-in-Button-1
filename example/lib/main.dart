@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sign_button/sign_button.dart';
+import 'package:sign_button_v2/sign_button.dart';
 
 void main() {
   runApp(MyApp());
