@@ -1,5 +1,5 @@
 /// sign_button library.
-library sign_button_v2;
+library sign_button;
 
 /// Exporting package files
 export 'constants.dart';
